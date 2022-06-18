@@ -1,0 +1,83 @@
+header {
+    background-color: black;
+    width: 100%;
+    text-align: center;
+}
+body {
+    text-align: center;
+}
+
+li {
+    width: 20%;
+    margin-left: 40%;
+}
+
+#header {
+    height: 180px;
+    background-color: blueviolet;
+    color: aliceblue;
+    margin-bottom: 20px;
+}
+
+#photo-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    width: 100%;
+    height: 100%;
+}
+#photo-section img {
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 50%;
+}
+#name-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+}
+
+/* img {
+    height: 15%;
+    width: 15%;
+}
+
+.divnome {
+    float: right;
+}
+.divfoto {
+    float: left;
+}
+.divtexto {
+    text-align: center;
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+   color: white;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+div {
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer {
+    background-color: black;
+    width: 100%;
+}
+h4 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+} */
